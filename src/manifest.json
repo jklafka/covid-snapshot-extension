@@ -1,0 +1,11 @@
+{
+  "name": "COVID-19 Stats UK",
+  "version": "1.0.0",
+  "description": "Latest COVID UK Data",
+  "manifest_version": 3,
+  "author": "Joe Klafka",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Latest Covid Report"
+  }
+}
