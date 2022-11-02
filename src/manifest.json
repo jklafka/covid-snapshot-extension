@@ -1,11 +1,11 @@
 {
-  "name": "COVID-19 Stats UK",
+  "name": "Daily COVID Snapshot",
   "version": "1.0.0",
-  "description": "Latest COVID UK Data",
+  "description": "Snapshot of the latest COVID-19 (coronavirus) data for today.",
   "manifest_version": 3,
   "author": "Joe Klafka",
   "action": {
     "default_popup": "index.html",
-    "default_title": "Latest Covid Report"
+    "default_title": "Daily COVID Snapshot
   }
 }
