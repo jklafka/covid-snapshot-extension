@@ -1,3 +1,5 @@
+const Papa = require("Papaparse");
+
 /**
 * Fetch COVID data from the US API endpoint
 */
